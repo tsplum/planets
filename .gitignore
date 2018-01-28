@@ -1,4 +1,4 @@
 pluto.txt
 planetX.txt
 *.dat
-!d.dat
+!c.dat
